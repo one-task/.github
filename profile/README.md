@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### BACK: 
+- https://github.com/Softocean/OneTask-Backend 
+- http://onetask.ddns.net:32168/api/v1/docs 
+#### FRONT: 
+- https://github.com/Softocean/onetask_front
+#### UX/UI:
+- https://www.figma.com/file/EQidIANQ1Tr8v3YHu5vDVf/OneTask?type=design&node-id=0-1&mode=design&t=LARWlDpXrXyTMjqh-0
+#### LAND:
+- https://github.com/Softocean/onetask_landing
+- https://landing.onetask.team
