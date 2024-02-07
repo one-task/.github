@@ -10,3 +10,4 @@
 #### LAND:
 - https://github.com/Softocean/onetask_landing
 - https://landing.onetask.team
+- https://www.figma.com/file/EQidIANQ1Tr8v3YHu5vDVf/OneTask?type=design&node-id=122-788&mode=design&t=r5IXmXoYsdzfDXOX-0
